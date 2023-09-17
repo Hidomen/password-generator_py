@@ -1,2 +1,2 @@
 # password-generator-py
-Bas,c password generator in PYTHON
+Basic password generator in PYTHON
